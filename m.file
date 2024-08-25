@@ -2,7 +2,7 @@ function reversedString = reverseString(inputString)
     reversedString = inputString(end:-1:1);
 end
 
-% Example usage
+% Example usage00000000000000000
 inputStr = 'Hello, World!';
 reversedStr = reverseString(inputStr);
 disp(['Reversed string: ', reversedStr]);
