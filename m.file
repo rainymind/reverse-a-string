@@ -1,4 +1,4 @@
-% 00000000000000000
+% 01
 function reversedString = reverseString(inputString)
     reversedString = inputString(end:-1:1);
 end
